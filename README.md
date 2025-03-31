@@ -3,7 +3,7 @@ My Portfolio Website
 This project is built using **HTML** and **basic CSS**. It serves as an online showcase of my skills, projects, and contact information, providing a simple yet effective way to introduce myself. 
 
 ## View
- You can access my portfolio website by visiting[https://mahalakshmis20.github.io/Portfolio-Simple-Website/].Feel free to explore content and get in touch!
+ You can access my portfolio website by visiting [https://mahalakshmis20.github.io/Portfolio-Simple-Website/].Feel free to explore content and get in touch!
 
 ##  Pages  
 - **Home (`index.html`)** – An introduction to my portfolio and work.  
